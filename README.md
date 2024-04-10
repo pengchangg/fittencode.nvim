@@ -111,9 +111,9 @@ require('cmp').setup({
 
 | Mappings    | Action                 |
 |-------------|------------------------|
-| `Tab`       | Accept all suggestions |
-| `Ctrl + ⬇️` | Accept line            |
-| `Ctrl + ➡️` | Accept word            |
+| `F2`       | Accept all suggestions |
+| `F3` | Accept line            |
+| `F4` | Accept word            |
 
 ## 🎉 Special Thanks
 
