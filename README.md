@@ -28,7 +28,7 @@ Install the plugin with your preferred package manager:
 
 ```lua
 {
-  'luozhiya/fittencode.nvim',
+  'pengchangg/fittencode.nvim',
   config = function()
     require('fittencode').setup()
   end,
@@ -39,7 +39,7 @@ Install the plugin with your preferred package manager:
 
 ```lua
 use {
-  'luozhiya/fittencode.nvim',
+  'pengchangg/fittencode.nvim',
   config = function()
     require('fittencode').setup()
   end,
